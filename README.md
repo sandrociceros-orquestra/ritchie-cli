@@ -105,10 +105,15 @@ rit demo hello-world
 ```bash
 rit demo hello-world --docker
 ```
+### Cheat Sheet 
+
+<img class="special-img-class" src="/docs/img/cheatsheet.png"  alt="Ritchie CLI Cheat Sheet"/>
 
 ## 🤝 Contributing to Ritchie
 
 - [Guidelines](https://github.com/ZupIT/ritchie-cli/blob/master/CONTRIBUTING.md)
+
+- [Security](https://github.com/ZupIT/ritchie-cli/blob/master/SECURITY.md)
 
 - [Developer Guide](https://github.com/ZupIT/ritchie-cli/blob/master/DEVELOPER_GUIDE.md)
 
